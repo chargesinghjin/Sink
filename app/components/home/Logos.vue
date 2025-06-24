@@ -1,4 +1,5 @@
 <template>
+ <!--- 
   <div class="mt-16 md:mt-0 md:py-12 ">
     <h2 class="font-bold text-center text-slate-600">
       {{ $t('home.logos.title') }}
@@ -16,4 +17,5 @@
       >
     </div>
   </div>
+  --->
 </template>
