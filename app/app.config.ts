@@ -1,7 +1,7 @@
 export default defineAppConfig({
   title: 'WeMaker',
   email: 'jin@wemaker.space',
-  github: 'https://github.com/chargesinghjin',
+  github: 'https://buildwithai.my',
   twitter: '',
   telegram: '',
   blog: 'https://wemaker.space',

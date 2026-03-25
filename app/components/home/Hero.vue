@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import { ArrowRight } from 'lucide-vue-next'
-import { GitHubIcon, XIcon } from 'vue3-simple-icons'
+import { ArrowRight, Globe } from 'lucide-vue-next'
+import { XIcon } from 'vue3-simple-icons'
 import heroUrl from '@/assets/images/hero.svg?url'
 
 const { title, description, github, twitter } = useAppConfig()
@@ -92,8 +92,8 @@ const { title, description, github, twitter } = useAppConfig()
                 :title="$t('layouts.footer.social.github')"
                 class="flex items-center gap-1.5"
               >
-                <GitHubIcon aria-hidden="true" class="size-5" />
-                <span class="text-nowrap">{{ $t('home.hero.github_repo') }}</span>
+                <Globe aria-hidden="true" class="size-5" />
+                <span class="text-nowrap">buildwithai.my</span>
               </a>
             </Button>
           </div>
