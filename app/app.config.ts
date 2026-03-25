@@ -4,7 +4,6 @@ export default defineAppConfig({
   github: 'https://github.com/chargesinghjin',
   twitter: '',
   telegram: '',
-  mastodon: '',
   blog: 'https://wemaker.space',
   description: 'A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.',
   image: 'https://sink.cool/banner.png',
